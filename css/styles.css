@@ -80,6 +80,17 @@ h1{
     grid-template-rows: 1fr;
 }
 
+#servicios{
+    scroll-margin-top: 100px;
+    margin: 10%;
+}
+
+.infoServicios{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+}
+
 .s1{
     text-align: justify;
 }
@@ -114,21 +125,6 @@ h1{
 .card p {
     font-size: 14px;
     color: gray;
-}
-
-#servicios{
-    scroll-margin-top: 100px;
-    margin: 10%;
-}
-
-.infoServicios{
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: 1fr;
-}
-
-.s1{
-    text-align: justify;
 }
 
 .s3{
