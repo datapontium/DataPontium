@@ -147,10 +147,13 @@ h1{
 .card2 h3 {
     margin-top: 10px;
     font-size: 18px;
+    color: #2274b1;
+    text-align: center;
 }
 .card2 p {
     font-size: 14px;
-    color: gray;
+    color: #2274b1;
+    text-align: center;
 }
 
 .contenedor{
