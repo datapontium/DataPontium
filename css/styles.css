@@ -123,9 +123,8 @@ h1{
     color: gray;
 }
 
-.s3{
+.s3 {
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
     gap: 20px;
@@ -136,7 +135,8 @@ h1{
     align-items: center;
     text-align: center;
     padding: 20px;
-    width:400px;
+    width: calc(25% - 20px);
+    box-sizing: border-box;
 }
 .card2 img {
     width: 100px;
@@ -155,6 +155,7 @@ h1{
     color: #2274b1;
     text-align: center;
 }
+
 
 .contenedor{
     display: flex;
