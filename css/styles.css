@@ -129,7 +129,7 @@ h1{
     align-items: center;
     text-align: center;
     padding: 20px;
-    width: calc(25% - 20px);
+    width: calc: 150px;
     box-sizing: border-box;
 }
 .card2 img {
