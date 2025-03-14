@@ -69,12 +69,18 @@ h1{
     padding-bottom: 10px;
 }
 
-#quienesSomos{
+#quienesSomos, #servicios{
     scroll-margin-top: 100px;
     margin: 10%;
 }
 
 .infoQuienes{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+}
+
+.infoServicios{
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
@@ -309,3 +315,4 @@ footer p{
     }
 
 }
+
