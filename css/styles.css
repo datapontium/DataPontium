@@ -119,7 +119,7 @@ h1{
 .s3{
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     justify-content: center;
     gap: 20px;
     padding: 20px;
