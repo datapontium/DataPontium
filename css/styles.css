@@ -123,13 +123,7 @@ h1{
     color: gray;
 }
 
-.s3 {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-    padding: 20px;
-}
+
 .card2 {
     background: #fff;
     align-items: center;
@@ -147,13 +141,13 @@ h1{
 .card2 h3 {
     margin-top: 10px;
     font-size: 18px;
-    color: #2274b1;
-    text-align: center;
+    color: #2274b1; !important;
+    text-align: center; !important;
 }
 .card2 p {
     font-size: 14px;
-    color: #2274b1;
-    text-align: center;
+    color: #2274b1; !important;
+    text-align: center; !important;
 }
 
 
