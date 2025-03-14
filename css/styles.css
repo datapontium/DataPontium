@@ -80,6 +80,12 @@ h1{
     grid-template-rows: 1fr;
 }
 
+.infoServicios{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+}
+
 .s1{
     text-align: justify;
 }
